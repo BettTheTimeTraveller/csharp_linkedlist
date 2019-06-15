@@ -1,0 +1,6 @@
+c:\users\btt studio\documents\visual studio 2015\Projects\linkedlist\linkedlist\bin\Debug\linkedlist.exe.config
+c:\users\btt studio\documents\visual studio 2015\Projects\linkedlist\linkedlist\bin\Debug\linkedlist.exe
+c:\users\btt studio\documents\visual studio 2015\Projects\linkedlist\linkedlist\bin\Debug\linkedlist.pdb
+c:\users\btt studio\documents\visual studio 2015\Projects\linkedlist\linkedlist\obj\Debug\linkedlist.csprojResolveAssemblyReference.cache
+c:\users\btt studio\documents\visual studio 2015\Projects\linkedlist\linkedlist\obj\Debug\linkedlist.exe
+c:\users\btt studio\documents\visual studio 2015\Projects\linkedlist\linkedlist\obj\Debug\linkedlist.pdb
